@@ -12,7 +12,7 @@
      -  Data completamento 
 
 ### Estensioni
-3. Filtro
- - filtrare i compiti per materia 
- - filtrare i compiti per data di scadenza 
- - filtrare i compiti per data di completamento
+3. Filtrare compiti
+      - per materia 
+      - per data di scadenza 
+      - per data di completamento
